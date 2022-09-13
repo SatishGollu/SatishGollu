@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SatishGollu
-- 👀 I’m interested in Software development and Machine Learning
-- 🌱 I’m currently learning Advanced Deep Learning Models and I solve Leetcode problems Everyday
+- 👀 I’m interested in Software development and i love finding patterns with data.
+- 🌱 I solve Leetcode problems Everyday
 - 💞️ I’m Currently looking For opportunities
 - 📫 How to reach me ... satish.gollu@wmich.edu
 

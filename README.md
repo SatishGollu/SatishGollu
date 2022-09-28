@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SatishGollu
-- 👀 I’m interested in Software development and i love finding patterns with data.
+- 👀 I like Software development and finding patterns with data.
 - 🌱 I keep learn everyday by solving Coding problems (Leetcode/Hackerrank/GFG)
 - 💞️ I’m Currently looking For opportunities
 - 📫 How to reach me ... satish.gollu@wmich.edu

@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SatishGollu
 - 👀 I like Software development and finding patterns with data.
-- 🌱 I keep learn everyday by solving Coding problems (Leetcode/Hackerrank/GFG)
-- 💞️ I’m Currently looking For opportunities
+- 🌱 I keep learn everyday.
 - 📫 How to reach me ... satishgollu@outlook.com
 
 <!---

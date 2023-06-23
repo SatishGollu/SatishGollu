@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SatishGollu
-- 👀 I like Software development and finding patterns with data.
+- 👀 I'm a Senior Software Engineer and finding patterns with data.
 - 🌱 I keep learn everyday.
 - 📫 How to reach me ... satishgollu@outlook.com
 

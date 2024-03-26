@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SatishGollu
-- 👀 I'm a Senior Software Engineer and finding patterns with data.
-- 🌱 I keep learn everyday.
+- 👀 I'm a Senior Full Stack Software Engineer
+- 🌱 i love finding patterns and I keep learn everyday.
 - 📫 How to reach me ... satishgollu@outlook.com
 
 <!---
